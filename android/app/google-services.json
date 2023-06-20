@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "593405693844",
+    "project_id": "reels-64f94",
+    "storage_bucket": "reels-64f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593405693844:android:e3f84b02819ca799194981",
+        "android_client_info": {
+          "package_name": "com.example.reels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593405693844-s5m1g9mgq780urckb0bnhvu1n2t1gvak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reels",
+            "certificate_hash": "c6cdf3b6ff7da416f92871db0a67f14ddbd0b1e5"
+          }
+        },
+        {
+          "client_id": "593405693844-55vgdnmghj22i2e59v2jgn5sv66pbvvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxO-juswypqEaySlu6akv3eyji5uQZ8Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593405693844-55vgdnmghj22i2e59v2jgn5sv66pbvvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
